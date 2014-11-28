@@ -1,0 +1,5 @@
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPClient\csTCPClient\bin\Debug\csTCPClient.exe.config
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPClient\csTCPClient\bin\Debug\csTCPClient.exe
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPClient\csTCPClient\bin\Debug\csTCPClient.pdb
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPClient\csTCPClient\obj\Debug\csTCPClient.exe
+c:\users\allen7593\documents\visual studio 2012\Projects\csTCPClient\csTCPClient\obj\Debug\csTCPClient.pdb
